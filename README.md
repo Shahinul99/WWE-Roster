@@ -20,4 +20,4 @@ Stack: React + Vite, React Router v6, Tailwind CSS v4, DaisyUI v5.
 
 ## Fake API
 public/wrestlers.json (18 real wrestlers: 5 current champions, 5 popular superstars, 8 Hall of Famers), fetched with fetch + async/await in src/api/wrestlers.js.
-Photos go in public/images (see the README.txt there). Missing photos fall back to an initials avatar.
+The 18 roster photos are stored in public/images (see the README.txt there for credits and licenses). Missing photos fall back to a local initials avatar that works offline.
