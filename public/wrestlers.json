@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "name": "Marcus Kane",
+    "nickname": "The Anvil",
+    "weight": 285,
+    "height": "6'5\"",
+    "hometown": "Pittsburgh, PA",
+    "style": "Powerhouse",
+    "finisher": "Forge Slam",
+    "championship": "Heavyweight Champion",
+    "titleReigns": 3,
+    "wins": 142,
+    "losses": 31,
+    "image": "https://ui-avatars.com/api/?name=Marcus+Kane&size=400&background=c8322d&color=fff",
+    "bio": "A former steelworker who turned raw strength into a three-time title run. Slow to start, impossible to stop once he gets moving.",
+    "points": [
+      "Three-time Heavyweight Champion",
+      "Never pinned in a title match",
+      "Trains at 5 a.m. every day"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Jade Valdez",
+    "nickname": "Hurricane",
+    "weight": 148,
+    "height": "5'7\"",
+    "hometown": "San Antonio, TX",
+    "style": "High-flyer",
+    "finisher": "Eye of the Storm",
+    "championship": "Women's Champion",
+    "titleReigns": 2,
+    "wins": 118,
+    "losses": 27,
+    "image": "https://ui-avatars.com/api/?name=Jade+Valdez&size=400&background=e0b23c&color=1a1405",
+    "bio": "Fast, fearless, and always looking for the top rope. Her springboard offense changed how the division wrestles.",
+    "points": [
+      "Two-time Women's Champion",
+      "Fastest title win in company history",
+      "Known for the springboard cutter"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Dante Ricci",
+    "nickname": "The Maestro",
+    "weight": 218,
+    "height": "6'0\"",
+    "hometown": "Newark, NJ",
+    "style": "Technician",
+    "finisher": "Crossface Symphony",
+    "championship": "Intercontinental Champion",
+    "titleReigns": 1,
+    "wins": 97,
+    "losses": 38,
+    "image": "https://ui-avatars.com/api/?name=Dante+Ricci&size=400&background=3b82c4&color=fff",
+    "bio": "A mat-wrestling purist who wins by taking a match apart one hold at a time.",
+    "points": [
+      "Current Intercontinental Champion",
+      "Submission specialist",
+      "Rarely uses the top rope"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Tom Okafor",
+    "nickname": "The Tower",
+    "weight": 320,
+    "height": "6'9\"",
+    "hometown": "Houston, TX",
+    "style": "Powerhouse",
+    "finisher": "Tower Bomb",
+    "championship": null,
+    "titleReigns": 0,
+    "wins": 64,
+    "losses": 22,
+    "image": "https://ui-avatars.com/api/?name=Tom+Okafor&size=400&background=272b38&color=ece8df",
+    "bio": "The biggest man on the roster and still climbing the rankings. A title shot is coming.",
+    "points": [
+      "Heaviest wrestler on the roster",
+      "Number one contender",
+      "Undefeated in tag matches this year"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Lena Park",
+    "nickname": "Lightning",
+    "weight": 132,
+    "height": "5'4\"",
+    "hometown": "Honolulu, HI",
+    "style": "High-flyer",
+    "finisher": "Flash Frame",
+    "championship": null,
+    "titleReigns": 0,
+    "wins": 71,
+    "losses": 29,
+    "image": "https://ui-avatars.com/api/?name=Lena+Park&size=400&background=c8322d&color=fff",
+    "bio": "The smallest competitor in the locker room and the hardest to catch.",
+    "points": [
+      "Quickest pin of the season",
+      "Rookie of the Year runner-up",
+      "Fan favorite"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Rex Dalton",
+    "nickname": "The Outlaw",
+    "weight": 245,
+    "height": "6'2\"",
+    "hometown": "Tulsa, OK",
+    "style": "Brawler",
+    "finisher": "Last Call",
+    "championship": "Tag Team Champion",
+    "titleReigns": 2,
+    "wins": 109,
+    "losses": 44,
+    "image": "https://ui-avatars.com/api/?name=Rex+Dalton&size=400&background=e0b23c&color=1a1405",
+    "bio": "Brawls first, asks questions never. Holds the tag titles with his longtime partner.",
+    "points": [
+      "Two-time Tag Team Champion",
+      "Most chair-shot disqualifications",
+      "Hardest chop in the company"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Viktor Sorel",
+    "nickname": "The Iron Curtain",
+    "weight": 262,
+    "height": "6'4\"",
+    "hometown": "Chicago, IL",
+    "style": "Technician",
+    "finisher": "Curtain Call Lock",
+    "championship": null,
+    "titleReigns": 0,
+    "wins": 88,
+    "losses": 41,
+    "image": "https://ui-avatars.com/api/?name=Viktor+Sorel&size=400&background=3b82c4&color=fff",
+    "bio": "A cold, calculating heel who dissects opponents and rarely shows emotion.",
+    "points": [
+      "Longest match of the year: 41 minutes",
+      "Heel of the Year nominee",
+      "Known for mind games"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Aaliyah Brooks",
+    "nickname": "Queen of the Ring",
+    "weight": 156,
+    "height": "5'9\"",
+    "hometown": "Atlanta, GA",
+    "style": "Brawler",
+    "finisher": "Royal Decree",
+    "championship": null,
+    "titleReigns": 1,
+    "wins": 83,
+    "losses": 30,
+    "image": "https://ui-avatars.com/api/?name=Aaliyah+Brooks&size=400&background=272b38&color=ece8df",
+    "bio": "A former champion hunting for her second reign and a rematch with Hurricane.",
+    "points": [
+      "Former Women's Champion",
+      "Best promo skills on the roster",
+      "Rematch clause in her contract"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Cody Mercer",
+    "nickname": "Hometown Hero",
+    "weight": 230,
+    "height": "6'1\"",
+    "hometown": "Columbus, OH",
+    "style": "All-rounder",
+    "finisher": "Buckeye Driver",
+    "championship": null,
+    "titleReigns": 0,
+    "wins": 75,
+    "losses": 36,
+    "image": "https://ui-avatars.com/api/?name=Cody+Mercer&size=400&background=c8322d&color=fff",
+    "bio": "The crowd's favorite underdog. He has never won a title, but he has never stopped trying.",
+    "points": [
+      "Biggest crowd pop of the year",
+      "Three near-miss title matches",
+      "Stays after every show to meet fans"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Tyler Hayes",
+    "nickname": "Torque",
+    "weight": 198,
+    "height": "5'11\"",
+    "hometown": "Detroit, MI",
+    "style": "High-flyer",
+    "finisher": "Full Throttle",
+    "championship": null,
+    "titleReigns": 0,
+    "wins": 59,
+    "losses": 33,
+    "image": "https://ui-avatars.com/api/?name=Tyler+Hayes&size=400&background=e0b23c&color=1a1405",
+    "bio": "A former motocross racer who brings the same reckless speed to every match.",
+    "points": [
+      "Fastest entrance in the company",
+      "Famous for the corkscrew moonsault",
+      "Auto-shop owner outside the ring"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Mateo Cruz",
+    "nickname": "El Fuego",
+    "weight": 205,
+    "height": "5'10\"",
+    "hometown": "Monterrey, Mexico",
+    "style": "High-flyer",
+    "finisher": "Llamarada",
+    "championship": null,
+    "titleReigns": 1,
+    "wins": 92,
+    "losses": 35,
+    "image": "https://ui-avatars.com/api/?name=Mateo+Cruz&size=400&background=3b82c4&color=fff",
+    "bio": "A lucha libre star who brought a new style of flying offense to the roster.",
+    "points": [
+      "Former Intercontinental Champion",
+      "Trained in Mexico City",
+      "Best-selling merchandise this quarter"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Brianna Holt",
+    "nickname": "The Wrecking Ball",
+    "weight": 165,
+    "height": "5'8\"",
+    "hometown": "Boise, ID",
+    "style": "Powerhouse",
+    "finisher": "Demolition Drop",
+    "championship": null,
+    "titleReigns": 0,
+    "wins": 52,
+    "losses": 19,
+    "image": "https://ui-avatars.com/api/?name=Brianna+Holt&size=400&background=272b38&color=ece8df",
+    "bio": "A former college powerlifter and the newest threat in the women's division.",
+    "points": [
+      "Best win percentage on the roster",
+      "Former state powerlifting champion",
+      "Debuted this season"
+    ]
+  }
+]
